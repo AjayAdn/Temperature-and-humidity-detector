@@ -16,6 +16,13 @@ The system reads temperature & humidity, displays them on an LCD, and activates 
 
 ---
 
+## 🖨️ Example Display Output
+```cpp
+  29.4°C RH:55%
+    Terasa Panas
+```
+---
+
 ## 🛠 Components Used
 | Component | Description |
 |----------|-------------|
